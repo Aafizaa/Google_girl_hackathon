@@ -50,8 +50,9 @@ Each model's performance is measured using:
 - If the dataset has an imbalance, the minority class is upsampled to match the majority.
 
 ## Authors
-This project was developed for **Girl Hackathon 2025 - Silicon Track**.
+Aafizaa K
+Departement of biomedical engineeering
+Chennai Institute Of Technology.
 
-## License
-[MIT License](LICENSE)
+
 
